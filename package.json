@@ -79,7 +79,7 @@
     "multi-token-standard-abi": "1.0.4",
     "pify": "^5.0.0",
     "pump": "^3.0.0",
-    "readable-stream": "^3.6.0",
+    "readable-stream": "^4.0.0",
     "register-service-worker": "^1.7.2",
     "single-call-balance-checker-abi": "^1.0.0",
     "swappable-obj-proxy": "^1.1.0",
