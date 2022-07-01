@@ -1,0 +1,16 @@
+/v1.24.5/css/*    /css/:splat    200!
+/v1.24.5/error-pages/*    /error-pages/:splat    200!
+/v1.24.5/images/*    /images/:splat    200!
+/v1.24.5/img/*    /img/:splat    200!
+/v1.24.5/js/*    /js/:splat    200!
+
+/v1.24.5/favicon.png   /favicon.png    200!
+/v1.24.5/manifest.json    /manifest.json    200!
+/v1.24.5/service-worker.js    /service-worker.js    200!
+/v1.24.5/service-worker.js.map    /service-worker.js.map    200!
+
+
+/service-worker.js    /service-worker.js    200!
+/service-worker.js.map    /service-worker.js.map    200!
+
+/*    /index.html    200
