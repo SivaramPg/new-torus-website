@@ -30,9 +30,9 @@ export async function getOpenLoginInstance(whiteLabel = {}, loginConfig = {}) {
     redirectUrl: `${config.baseRoute}end`,
     replaceUrlOnRedirect: true,
     uxMode: 'redirect',
-    originData: {
-      [window.location.origin]: config.openLoginOriginSig,
-    },
+    // originData: {
+    //   [window.location.origin]: config.openLoginOriginSig,
+    // },
     whiteLabel: whiteLabelOpenLogin,
     loginConfig,
     // no3PC: true,
